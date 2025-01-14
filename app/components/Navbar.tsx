@@ -11,8 +11,8 @@ const Navbar = () => {
             <Image
               src="/logo_aliyan.png"
               alt="Logo Desa Aliyan"
-              width={150} // Ukuran logo tetap besar
-              height={150}
+              width={230} // Ukuran logo tetap besar
+              height={230}
               className="cursor-pointer"
               priority
             />
